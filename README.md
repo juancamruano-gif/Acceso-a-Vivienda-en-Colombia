@@ -1,4 +1,16 @@
-# Acceso-a-Vivienda-en-Colombia
+**Grupo 1**
+
+**JUAN CAMILO RUANO BARONA**
+
+**OMAR EUFRACIO BUENO**
+
+**JHOHANN ANDRES SALAZAR CORREA**
+
+**CARLOS ANDRES TOSSE**
+
+
+**Acceso a Vivienda en Colombia**
+
 ¿Cuáles son las principales barreras que enfrentan los colombianos para acceder a la vivienda propia en las cuatro principales ciudades del país?
 
 **_Introducción_**
@@ -36,9 +48,11 @@ En síntesis, este proyecto de investigación no solo busca describir un problem
 
 **_Datos y Evidencias:_**
 
-_Mapa de Calor de las Tasas de Credito Hipotecario Año/Mes_
+_Tasas de Credito Hipotecario Año/Mes_
 
 <img width="1878" height="858" alt="image" src="https://github.com/user-attachments/assets/647f353e-f1a7-47e5-b6c7-684778989356" />
+
+<img width="1700" height="586" alt="image" src="https://github.com/user-attachments/assets/38e9bfb9-ac23-4f2d-8f14-5ab137e0b3ca" />
 
 
 _Indice de Precio de Vivienda Nueva_
@@ -46,6 +60,9 @@ _Indice de Precio de Vivienda Nueva_
 <img width="833" height="293" alt="image" src="https://github.com/user-attachments/assets/04e9c6cb-17dd-498f-954b-f127110fec54" />
 
 <img width="1697" height="604" alt="image" src="https://github.com/user-attachments/assets/da83f3a8-c590-4071-b29c-85c9532fa76f" />
+
+<img width="1687" height="591" alt="image" src="https://github.com/user-attachments/assets/9f047b1d-f023-46a3-9cc7-b373272dfffe" />
+
 
 
 **_Salario_**
