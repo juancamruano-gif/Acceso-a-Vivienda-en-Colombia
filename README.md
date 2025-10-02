@@ -62,5 +62,12 @@ _Indice de Precio de Vivienda Nueva_
 
 •	El análisis comparativo entre las cuatro ciudades muestra que no existe una barrera única, sino que estas varían según el contexto local. Mientras en Barranquilla la oferta de vivienda nueva ha sido insuficiente para satisfacer la demanda, en Medellín y Bogotá el principal obstáculo es el precio del suelo y la densificación. Por su parte, Cali presenta dificultades tanto en la oferta como en el acceso a crédito, especialmente después de la pandemia. Estos matices exigen políticas diferenciadas por ciudad y no un enfoque homogéneo a nivel nacional.
 
+<img width="921" height="255" alt="image" src="https://github.com/user-attachments/assets/0de26b66-0480-40cb-a3ec-d698b54e5a41" />
+
 
 **_Fuentes_**
+
+https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-de-la-vivienda-nueva-ipvn
+
+https://suameca.banrep.gov.co/buscador-de-series/#/consolidado
+
