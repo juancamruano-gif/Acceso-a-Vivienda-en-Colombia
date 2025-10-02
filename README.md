@@ -38,9 +38,10 @@ Datos y Evidencias:
 
 Banco de la Republica
 
-
+[Mapa de Calor de Tasas](file:///C:/Users/Juanc/OneDrive/Tasas/fig_heatmap_mensual.html)
 
 IPVN
+
 <img width="833" height="293" alt="image" src="https://github.com/user-attachments/assets/04e9c6cb-17dd-498f-954b-f127110fec54" />
 
 
