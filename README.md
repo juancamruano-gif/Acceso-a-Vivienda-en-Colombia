@@ -45,6 +45,7 @@ _Indice de Precio de Vivienda Nueva_
 
 <img width="833" height="293" alt="image" src="https://github.com/user-attachments/assets/04e9c6cb-17dd-498f-954b-f127110fec54" />
 
+<img width="1697" height="604" alt="image" src="https://github.com/user-attachments/assets/da83f3a8-c590-4071-b29c-85c9532fa76f" />
 
 
 **_Salario_**
