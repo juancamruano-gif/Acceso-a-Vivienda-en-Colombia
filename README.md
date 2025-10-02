@@ -4,7 +4,9 @@
 Introducción 
 
 La vivienda propia es un pilar fundamental para la estabilidad económica familiar, la consolidación del patrimonio y el desarrollo social. En Colombia, como en gran parte de América Latina, el acceso a una vivienda digna se rige no solo como una necesidad básica, sino también como un anhelo colectivo. Sin embargo, este objetivo se ha convertido en un desafío cada vez más complejo para un amplio segmento de la población.
+
 Este estudio se centra en analizar la situación en las cuatro principales áreas metropolitanas del país: Bogotá, Medellín, Cali y Barranquilla. Estas ciudades, que concentran una parte significativa de la población y la actividad económica nacional, presentan dinámicas inmobiliarias y socioeconómicas particulares, pero comparten problemáticas estructurales que dificultan el acceso a la vivienda.
+
 ¿Cuáles son las principales barreras económicas, financieras, de oferta y regulatorias que enfrentan los hogares colombianos para acceder a la vivienda propia en las ciudades de Bogotá, Medellín, Cali y Barranquilla, y cómo varían estas barreras entre dichas ciudades?
 
 Objetivo general
@@ -21,6 +23,7 @@ Objetivo especifico
 Justificación 
 
 Esta investigación se sustenta en cuatro pilares principales: su relevancia social, su pertinencia económica, su contribución a la política pública y su valor académico.
+
 •	Relevancia Social: La imposibilidad de acceder a una vivienda propia tiene consecuencias directas en la calidad de vida, profundizando la desigualdad y limitando la movilidad social. Comprender las barreras específicas es el primer paso para diseñar soluciones que promuevan la equidad y la satisfacción de un derecho fundamental. El estudio aborda una preocupación central para miles de familias, dando voz a un problema que afecta su proyecto de vida.
 
 •	Pertinencia Económica: El sector de la construcción y la vivienda es un motor clave de la economía colombiana, con efectos multiplicadores en empleo, industria y servicios. Las barreras que impiden su dinamismo afectan negativamente el crecimiento económico nacional y regional. Un diagnóstico preciso de estos obstáculos puede orientar inversiones y estrategias del sector privado para hacer el mercado más eficiente y accesible.
