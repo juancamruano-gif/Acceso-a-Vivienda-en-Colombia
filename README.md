@@ -30,11 +30,23 @@ Esta investigación se sustenta en cuatro pilares principales: su relevancia soc
 
 •	Contribución a la Política Pública: Los programas estatales de vivienda (como Mi Casa Ya) y los esfuerzos de las alcaldías requieren de información actualizada y desagregada por ciudades para ser efectivos. Esta investigación puede servir como una herramienta de diagnóstico para evaluar las políticas existentes y rediseñar o crear nuevas que se enfoquen en remover las barreras identificadas, optimizando el uso de recursos públicos. Por ejemplo, si se identifica que la principal barrera es el ahorro inicial y no la cuota mensual, las políticas podrían orientarse hacia subsidios directos al capital.
 
-•	Valor Académico y de Innovación: Si bien existen estudios previos sobre el mercado de vivienda en Colombia, este trabajo aporta una perspectiva comparativa y actualizada que considera el periodo post-pandemia, caracterizado por inflación, alzas en tasas de interés y cambios en los patrones de demanda. La comparación entre cuatro ciudades con contextos
-
-•	geográficos, económicos y sociales distintos (el mercado costero de Barranquilla vs. el andino de Medellín) enriquece el análisis y permite identificar factores locales críticos.
+•	Valor Académico y de Innovación: Si bien existen estudios previos sobre el mercado de vivienda en Colombia, este trabajo aporta una perspectiva comparativa y actualizada que considera el periodo post-pandemia, caracterizado por inflación, alzas en tasas de interés y cambios en los patrones de demanda. La comparación entre cuatro ciudades con contextos geográficos, económicos y sociales distintos (el mercado costero de Barranquilla vs. el andino de Medellín) enriquece el análisis y permite identificar factores locales críticos.
 
 En síntesis, este proyecto de investigación no solo busca describir un problema, sino también proporcionar evidencia concreta que facilite la toma de decisiones informadas por parte de actores públicos, privados y la sociedad civil, contribuyendo a la construcción de ciudades más inclusivas y sostenibles.
+
+Datos y Evidencias:
+
+Banco de la Republica
+
+
+
+IPVN
+<img width="833" height="293" alt="image" src="https://github.com/user-attachments/assets/04e9c6cb-17dd-498f-954b-f127110fec54" />
+
+
+Salario
+
+
 
 Conclusiones 
 
