@@ -38,7 +38,7 @@ Datos y Evidencias:
 
 Banco de la Republica
 
-[Mapa de Calor de Tasas](file:///C:/Users/Juanc/OneDrive/Tasas/fig_heatmap_mensual.html)
+[Mapa de Calor de Tasas](Visualizaciones_BanRep/fig_heatmap_mensual.html)
 
 IPVN
 
